@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  color: #000;
+  margin: 2rem auto;
+  max-width: 700px;
+  line-height: 1.6;
+}
+header, footer {
+  margin-bottom: 2rem;
+}
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  background: yellow;
+}
+hr {
+  border: none;
+  border-top: 1px solid #000;
+}
